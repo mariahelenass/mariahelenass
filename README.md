@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Maria Helena!
 
-- 👩🏼‍💻 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas
+- 👩🏼‍💻 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas, cursando o segundo semestre
 - 🌱 Atualmente estudando Python e R
 
 <div align="center">
