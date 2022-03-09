@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Maria Helena!
 
-
-- 🌱 Estudando Python e R
+- 👩🏼‍💻 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas
+- 🌱 Atualmente estudando Python e R
 
 <div align="center">
   <a href="https://github.com/mariahelenass">
