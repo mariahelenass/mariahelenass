@@ -1,6 +1,4 @@
-### Oii! Eu sou a Maria Helena!
-
-- 👩🏼‍💻 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas, cursando o quarto semestre
+HI! my name is Maria and I'm Machine Learning Engineer at IBM
 
 <div align="center">
   <a href="https://github.com/mariahelenass">
