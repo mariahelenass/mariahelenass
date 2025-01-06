@@ -7,7 +7,6 @@ HI! my name is Maria and I'm Machine Learning Engineer at IBM
 </div>
 
 ### Contato: 
-  <a href = "mailto:mariahelena3977@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-helena-a08b97223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
