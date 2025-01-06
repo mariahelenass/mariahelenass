@@ -1,11 +1,14 @@
-<p align="center"><a href="https://github.com/mariahelenass"><img width="80%" alt="Hello, I'm Maria!" src="./assets/gh-readme-header.png" /></a></p> <br />
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Maria!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 I'm a passionate Machine Learning Engineer from Brazil 🇧🇷, currently working at IBM.
 
-About Me
+**About Me**
 💼 Machine Learning Engineer at IBM
 📈 Led research projects on AI's societal impact, presented at national conferences
 ❤️ I enjoy exploring quantum computing, AI Engineering, and platform engineering
-💬 Ask me about AI modeling, Qiskit, or Triton Inference Server here
+
 Technologies I Work With
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
