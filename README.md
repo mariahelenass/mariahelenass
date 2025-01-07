@@ -1,24 +1,26 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Maria!" src="./assets/gh-readme-header.png" /></a></p>
+# Maria Helena
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/mariahelenass)
 
-I'm a passionate Machine Learning Engineer from Brazil 🇧🇷, currently working at IBM.
+Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧🇷, currently working at IBM.
 
-**About Me**
-💼 Machine Learning Engineer at IBM
-📈 Led research projects on AI's societal impact, presented at national conferences
-❤️ I enjoy exploring quantum computing, AI Engineering, and platform engineering
+- Programming Languages: 
 
-Technologies I Work With
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
-<code><img height="20" alt="qiskit" src="https://raw.githubusercontent.com/github/explore/main/topics/qiskit/qiskit.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+    [![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+  
+- Frameworks and Libraries: 
 
-GitHub Stats
-<a href="https://github.com/mariahelenass"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariahelenass&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maria's GitHub stats" /></a>	<a href="https://github.com/mariahelenass"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahelenass&layout=compact&theme=buefy&hide_border=true" /></a>
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,onnx)](https://skillicons.dev)
+  
+- Tools:
 
-Connect
-<a href="https://www.linkedin.com/in/maria-helena-a08b97223/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/mariahelena"> <img align="right" alt="Maria Helena | Twitter" width="21px" src="https://raw.githubusercontent.com/mariahelenass/mariahelenass/main/assets/twitter.svg" /> </a>
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mono)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+
+
+
+## 🏆 Projects 
+
+- [Wildfire in Brazil](https://github.com/mariahelenass/Wildfire-Brazil): This research explored the patterns of occurrence and wildfire risk in Brazil, integrating climatic and geospatial data from INPE with statistical and machine learning models such as Prophet, SARIMAX, and Random Forest Regressor to enhance understanding of fire dynamics.
+
+![DiasMaria GitHub stats](https://github-readme-stats.vercel.app/api?username=mariahelenass&show_icons=true&theme=merko)
