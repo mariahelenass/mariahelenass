@@ -1,6 +1,6 @@
 # Maria Helena
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/mariahelenass)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[MariaHelena]-blue?logo=linkedin)](https://www.linkedin.com/in/mariahelenass)
 
 Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧🇷, currently working at IBM.
 
@@ -8,14 +8,14 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧�
 
     [![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
   
-- Frameworks and Libraries: 
+- Data Science: 
 
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,onnx)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,onnx,scikit-learn,ollama,vllm,nvidia,tensorrt)](https://skillicons.dev)
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,kubernetes,docker,insomnia)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=sql,kubernetes,docker,insomnia,azure,gcp,openshift,rancher,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,argocd,sonarqube,visualstudio,vmware)](https://skillicons.dev)
 
 
 
