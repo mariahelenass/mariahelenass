@@ -14,7 +14,7 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil ðŸ‡§ðŸ‡
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mono)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,kubernetes,docker,insomnia)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
 
