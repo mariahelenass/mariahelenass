@@ -10,11 +10,11 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil ðŸ‡§ðŸ‡
   
 - Data Science: 
 
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,onnx,scikit-learn,ollama,vllm,nvidia,tensorrt)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,Ollama)](https://skillicons.dev)
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=sql,kubernetes,docker,insomnia,azure,gcp,openshift,rancher,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,gcp,openshift,rancher,figma)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,argocd,sonarqube,visualstudio,vmware)](https://skillicons.dev)
 
 
