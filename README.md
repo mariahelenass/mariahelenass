@@ -14,7 +14,7 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧�
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,gcp,redhat,rancher,figma,git,github,gitlab,jenkins,argocd,sonarqube,visualstudio,prometheus,grafana,anaconda)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,googlecloud,redhat,rancher,jenkins,git,github,gitlab,jenkins,visualstudiocode,prometheus,grafana)](https://skillicons.dev)
 
 
 ## 🏆 Projects 
