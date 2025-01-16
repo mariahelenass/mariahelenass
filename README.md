@@ -10,7 +10,7 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil ðŸ‡§ðŸ‡
   
 - Data Science: 
 
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,Ollama)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,sqlite)](https://skillicons.dev)
   
 - Tools:
 
