@@ -19,6 +19,6 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧�
 
 ## 🏆 Projects 
 
-- [Wildfire in Brazil](https://github.com/mariahelenass/Wildfire-Brazil): This research explored the patterns of occurrence and wildfire risk in Brazil, integrating climatic and geospatial data from INPE with statistical and machine learning models such as Prophet, SARIMAX, and Random Forest Regressor to enhance understanding of fire dynamics.
+- [Wildfire in Brazil](https://github.com/mariahelenass/Wildfire-Brazil): This research project investigates the use of Fire Radiative Power (FRP) as a predictive variable for estimating the intensity of forest fires through the application of machine learning techniques to spatiotemporal data. The methodology integrates data preprocessing strategies, spatial encoding, and the evaluation of different models, aiming to support early warning systems and improve the understanding of fire behavior in sensitive biomes.
 
 ![DiasMaria GitHub stats](https://github-readme-stats.vercel.app/api?username=mariahelenass&show_icons=true&theme=merko)
