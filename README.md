@@ -20,7 +20,7 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧�
 ## 🏆 Projects 
 
 - [Wildfire in Brazil](https://github.com/mariahelenass/Wildfire-Brazil): This research project investigates the use of Fire Radiative Power (FRP) as a predictive variable for estimating the intensity of forest fires through the application of machine learning techniques to spatiotemporal data. The methodology integrates data preprocessing strategies, spatial encoding, and the evaluation of different models, aiming to support early warning systems and improve the understanding of fire behavior in sensitive biomes.
-- [Wildfire in Brazil](https://github.com/mariahelenass/Computer-Vision): This project focuses on the classification of Sentinel-2 satellite images into two categories: `wildfire` and `nowildfire`. We explore different pretraining strategies for ResNet18 models using PyTorch and TorchGeo.
+- [Wildfire Image Classification](https://github.com/mariahelenass/Computer-Vision): This project focuses on the classification of Sentinel-2 satellite images into two categories: `wildfire` and `nowildfire`. We explore different pretraining strategies for ResNet18 models using PyTorch and TorchGeo.
 
 
 ![DiasMaria GitHub stats](https://github-readme-stats.vercel.app/api?username=mariahelenass&show_icons=true&theme=merko)
