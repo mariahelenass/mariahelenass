@@ -10,11 +10,11 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer and Solutions Archi
   
 - Data Science: 
 
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,sqlite)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,sqlite,mongodb)](https://skillicons.dev)
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,googlecloud,redhat,linux,git,github,gitlab,jenkins,aws,prometheus,grafana,datadog,terraform)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,googlecloud,redhat,linux,git,github,gitlab,jenkins,aws,prometheus,grafana,terraform)](https://skillicons.dev)
 
 
 ## 🏆 Projects 
