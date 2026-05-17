@@ -14,7 +14,7 @@ Hello, I'm Maria! I'm a passionate Machine Learning Engineer and Solutions Archi
   
 - Tools:
 
-    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,googlecloud,redhat,linux,git,github,gitlab,jenkins,aws,prometheus,grafana)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,googlecloud,redhat,linux,git,github,gitlab,jenkins,aws,prometheus,grafana,datadog,terraform)](https://skillicons.dev)
 
 
 ## 🏆 Projects 
