@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[MariaHelena]-blue?logo=linkedin)](https://www.linkedin.com/in/mariahelenass)
 
-Hello, I'm Maria! I'm a passionate Machine Learning Engineer from Brazil 🇧🇷, currently working at IBM.
+Hello, I'm Maria! I'm a passionate Machine Learning Engineer and Solutions Architect from Brazil 🇧🇷, currently working at AWS. I’m focused on designing scalable AI systems, optimizing large language models, and building real-world machine learning solutions that bridge research and production.
 
 - Programming Languages: 
 
